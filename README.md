@@ -17,6 +17,11 @@ farming_redo (by tenplus1)
 *	Pumpkin Spice Donut  
 *	Pumpkin Spice Cookie  
 *	Pumpkin Spice Bread (Not pumpkin bread)  
+*	Pumpkin Spice Bagel  
+*	Pumpkin Spice Muffin  
+*	Pumpkin Spice Cake  
+*	Bagel  
+*	Muffin  
 
 **Crafting:**  
 
@@ -26,5 +31,30 @@ Put a pumpkin slice anywhere in your crafting grid.
 *	Pumpkin Spice Latte:  
 Put pumpkin spice, bucket of milk, and hot coffee anywhere in your crafting grid.  
 
+*	Bagel:  
+```
+|B||B||B|
+|B|| ||B|
+|B||B||B|
+```
+B = Bread  
+
+*	Muffin:  
+```
+|P||B||P|
+|P||B||P|
+```
+P = Paper B = Bread  
+
+*	Pumpkin Spice Cake Batter:  
+```
+|P||P||P|
+|F||S||F|
+```
+P = Pumpkinspice F = Flour S = Sugar  
+
+*	Pumpkin Spice Cake:  
+Cook pumpkinspice batter.  
+
 *	Everything else:  
-Combine pumpkin spice with either cookie, donut, or bread.
+Combine pumpkin spice with either cookie, donut, bread, or muffin.
